@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorMonedaIBM", "ConversorMonedaIBM\ConversorMonedaIBM.csproj", "{49D2F122-8047-4B72-BFE5-4526FB57986D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorMonedaIBM.Tests", "ConversorMonedaIBM.Tests\ConversorMonedaIBM.Tests.csproj", "{13DA7F6C-1CCC-4C8A-944A-CB33E2BF6F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D2F122-8047-4B72-BFE5-4526FB57986D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D2F122-8047-4B72-BFE5-4526FB57986D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D2F122-8047-4B72-BFE5-4526FB57986D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D2F122-8047-4B72-BFE5-4526FB57986D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DA7F6C-1CCC-4C8A-944A-CB33E2BF6F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DA7F6C-1CCC-4C8A-944A-CB33E2BF6F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DA7F6C-1CCC-4C8A-944A-CB33E2BF6F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DA7F6C-1CCC-4C8A-944A-CB33E2BF6F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10064FB2-A7E8-4547-8B0E-99A0A91A0CAD}
+	EndGlobalSection
+EndGlobal
